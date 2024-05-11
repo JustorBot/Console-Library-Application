@@ -1,0 +1,4 @@
+ADMIN,ADMIN123,ADMIN@gmail.com
+Tester,Tester123,test@gmail.com
+Angelique,Angelique123,angelique03@gmail.com
+Bob,12345,bob@gmail.com

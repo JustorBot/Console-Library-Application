@@ -1,0 +1,4 @@
+war storm,Victoria Aveyard,15-May-18,978-0062422996,Angelique
+King's cage,Victoria Aveyard,07-Feb-17,978-1409151197,Angelique
+Glass sword,Victoria Aveyard,04-Feb-16,978-0062456199,Bob
+Red queen,Victoria Aveyard,10-Feb-15,978-0062310637,Tester
